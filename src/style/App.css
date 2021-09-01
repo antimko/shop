@@ -1,0 +1,29 @@
+@import url('https://fonts.googleapis.com/css2?family=Karla:wght@400;700&display=swap');
+
+/* :root {
+  font-size: 10px;
+} */
+
+body {
+  margin: 0;
+  font-family: 'Karla', sans-serif;
+  color: #333;
+  background-color: gray;
+}
+
+.App {
+}
+.container {
+  margin: 0 5%;
+}
+
+a {
+  text-decoration: none;
+  color: inherit;
+  display: inline-block;
+  cursor: pointer;
+}
+
+button {
+  cursor: pointer;
+}
